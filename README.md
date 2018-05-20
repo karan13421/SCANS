@@ -1,0 +1,2 @@
+# SCANS
+SCANS (Switching Counting Alerting Notifying Sonar System) is a device which is made for solving problems such as power wastage, crowd control, security, public announcement etc. related to events organisation and managing public areas. The device is made such that it can solve all this problems through its functionalities such as switching system that will turn on/off any appliance automatically, give alert system, notifying system and counting system.
